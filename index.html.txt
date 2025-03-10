@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="author" content="Muammar adami">
+		<title>From html</title>
